@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2.5rem;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 1rem;
+  color: #ccc;
+}
+
+a {
+  color: aquamarine;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.video-container {
+  max-width: 300px;
+  margin: 30px auto;
+}
+
+.excursion-section {
+  margin: 40px auto;
+  max-width: 800px;
+}
+
+.excursion-section img {
+  margin: 20px 0;
+}
+
+footer {
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 60px;
+  padding-bottom: 30px;
+}
+
